@@ -1,4 +1,3 @@
-package Basicjava;
 
 public class areaofcircle{
     static void main(String[] args) {
